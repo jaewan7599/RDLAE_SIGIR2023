@@ -44,6 +44,10 @@ conda activate RDLAE
 - To reproduce the results of Table 2 (strong generalization), go to the 'strong' directory.
 - To reproduce the results of Table 3 (weak generalization), go to the 'weak' directory.
 
+### Datasets
+- Strong generalization: https://drive.google.com/file/d/1qRDWRMp5U86jwInnWT6OirsjT4UKhNE2/view?usp=sharing
+- Weak generalization: https://drive.google.com/file/d/1Yo5roKrJ3mkKTOSHxFNz9RoOjEueQnpS/view?usp=sharing
+
 #### In terminal
 - Run the shell file for one of the datasets at the specific directory, i.e., 'strong' and 'weak', of the project.
 
