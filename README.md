@@ -23,6 +23,8 @@ Please cite our paper if using this code.
 }
 ```
 
+---
+
 ## Setup Python environment
 
 ### Install python environment
