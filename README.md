@@ -1,6 +1,6 @@
 # RLAE & RDLAE - It's Enough: Relaxing Diagonal Constraints in Linear Autoencoders for Recommendation (SIGIR 2023)
 
-This is the official code for our acppedted SIGIR 2023 paper: <br>[`It's Enough: Relaxing Diagonal Constraints in Linear Autoencoders for Recommendation`] (The link will be available).</br>
+This is the official code for our accepted SIGIR 2023 paper: <br>[`It's Enough: Relaxing Diagonal Constraints in Linear Autoencoders for Recommendation`] (The link will be available).</br>
 
 
 We implemented our framework based on the following github repositories; [**MultVAE**](https://github.com/dawenl/vae_cf) and [**LT-OCF**](https://github.com/jeongwhanchoi/LT-OCF).</br> 
