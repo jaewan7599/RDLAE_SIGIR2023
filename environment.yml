@@ -4,8 +4,8 @@ channels:
 dependencies:
   - pip=22.3.1
   - python=3.8
-  - scipy=1.8.1
   - pip:
+    - scipy==1.8.1
     - h5py==3.7.0
     - numpy==1.22.4
     - torch==1.7.1
