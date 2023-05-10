@@ -155,8 +155,6 @@ class Loader(BasicDataset):
         self.items_D[self.items_D == 0.] = 1.
 
         # pre-calculate
-        if world.model_name == 'BPR_RLARC':
-            self._allPos = self.getUserPosItems(list(range(self.n_user)))
         self.__validDict = self.__build_valid()
         self.__testDict = self.__build_test()
 
