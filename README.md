@@ -5,7 +5,7 @@ This is the official code for our accepted SIGIR 2023 paper: <br>[`It's Enough: 
 
 We implemented our framework based on the following github repositories; [**MultVAE**](https://github.com/dawenl/vae_cf) and [**LT-OCF**](https://github.com/jeongwhanchoi/LT-OCF).</br> 
 
-The slides will be available.
+The slides can be found [here](https://drive.google.com/file/d/1gW-E8iFiUScBBs_N7QEIjEsYlyRr2jrG/view?usp=sharing).
 
 ## Citation
 
