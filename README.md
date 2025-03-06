@@ -14,11 +14,11 @@ Please cite our paper if using this code.
 ```
 @inproceedings{MoonKL23RDLAE,
   author    = {Jaewan Moon and
-               Hye-young Kim and
+               Hye{-}young Kim and
                Jongwuk Lee},
   title     = {It's Enough: Relaxing Diagonal Constraints in Linear Autoencoders for Recommendation},
   booktitle = {SIGIR},
-  pages     = {--(will be updated)},
+  pages     = {1639--1648},
   year      = {2023},
 }
 ```
